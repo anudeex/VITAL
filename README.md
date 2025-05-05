@@ -3,6 +3,8 @@ Code of our paper - "VITAL: A New Dataset for Benchmarking Pluralistic Alignment
 
 **arXiv (Pre-print) version: [link](https://arxiv.org/abs/2409.04459)**
 
+<br />
+
 **The contributions of this work are as follows:**
 - To the best of our knowledge, this work is the first to explore the pluralistic alignment of LLMs, specifically within the health domain.
 - We construct and introduce a comprehensive benchmark dataset, VITAL, concentrating on the health domain for various pluralistic alignment methodologies.
@@ -11,16 +13,24 @@ Code of our paper - "VITAL: A New Dataset for Benchmarking Pluralistic Alignment
 
 <br />
 
-<img width="508" alt="image" src="https://github.com/user-attachments/assets/ff82048e-62f6-44e3-8366-1998b11b4108" />
+<div align="center">
 
-  
-**A pluralistic alignment example from VITAL dataset**
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Pluralistic alignment example" src="https://github.com/user-attachments/assets/ff82048e-62f6-44e3-8366-1998b11b4108" />
+      <p><strong>A pluralistic alignment example from VITAL dataset</strong></p>
+    </td>
+    <td align="center">
+      <img width="400" alt="Overview of alignment datasets" src="https://github.com/user-attachments/assets/23648543-b898-4038-9a71-125ac975091b" />
+      <p><strong>Overview of alignment datasets</strong></p>
+    </td>
+  </tr>
+</table>
 
-<img width="719" alt="image" src="https://github.com/user-attachments/assets/23648543-b898-4038-9a71-125ac975091b" />
+</div>
 
-**Overview of alignment datasets**
-
-
+<br />
 
 
 ## Abstract
