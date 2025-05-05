@@ -1,7 +1,7 @@
 # VITAL
 Code of our paper - "VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare"
 
-**arXiv (Pre-print) version: [link](https://arxiv.org/abs/2409.04459)**
+**arXiv (Pre-print) version: [link](https://arxiv.org/abs/2502.13775)**
 
 <br />
 
